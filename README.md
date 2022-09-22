@@ -3,6 +3,8 @@
 You need to have Python 3 installed on your computer to run SFSXplorer. In addition, you also need NumPy (1.14.5*), Matplotlib, scikit-learn (0.19.1*), and SciPy (1.1.0*).
 *You can use higher versions as well.
 
+klywang Personal Branch
+
 Windows
 
 Step 1. Download SFSXplorer 
