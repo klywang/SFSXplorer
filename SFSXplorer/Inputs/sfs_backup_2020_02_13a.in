@@ -1,0 +1,5 @@
+chklig_in,Inputs/chklig2.in
+dataset_dir,F:\Projects\SFSXplorer2020e\Dataset\
+scores_out,Outputs/scores_out.csv
+sandres_out,Outputs/sandres_out.csv
+binding_type,ki

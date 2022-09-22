@@ -1,0 +1,9 @@
+# Define stats.in
+# Define input and output file names
+data_in,sandres_out_EC_2_7_11_1.csv
+data_out,stats_EC_2_7_11_1.csv
+# Define working directories
+dir_in,G:/Projects/SFSXplorer/SFSXplorer2020h/Dataset/
+dir_out,G:/Projects/SFSXplorer/SFSXplorer2020h/Outputs/
+# Define string header with experimental data
+exp_string,Experimental
